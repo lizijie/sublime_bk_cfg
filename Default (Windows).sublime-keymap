@@ -1,0 +1,11 @@
+[
+	{ "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Evernote: "} },
+	{ "keys": ["ctrl+e", "ctrl+s"], "command": "send_to_evernote" },
+	{ "keys": ["ctrl+e", "ctrl+o"], "command": "open_evernote_note" },
+	{ "keys": ["ctrl+e", "ctrl+u"], "command": "save_evernote_note" },
+	{ "keys": ["ctrl+e", "ctrl+h"], "command": "open_evernote_note", "args": {"by_searching": true} },
+	{ "keys": ["ctrl+e", "ctrl+n"], "command": "new_evernote_note" },
+	{ "keys": ["ctrl+e", "ctrl+c"], "command": "clear_evernote_cache" },
+	{ "keys": ["ctrl+e", "ctrl+i"], "command": "evernote_insert_attachment" },
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
+]

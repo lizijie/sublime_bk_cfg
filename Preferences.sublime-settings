@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Material-Theme.sublime-theme"
+}

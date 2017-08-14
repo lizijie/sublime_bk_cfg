@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Evernote",
+		"Git",
+		"JavaScript Completions",
+		"JavaScript Console",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"Terminal"
+	],
+	"repositories":
+	[
+		"https://github.com/jvantuyl/sublime_diagram_plugin.git"
+	]
+}

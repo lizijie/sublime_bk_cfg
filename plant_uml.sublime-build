@@ -1,0 +1,4 @@
+{
+	"cmd": "java -jar \"H:/Program Files (x86)/plantuml.1.2017.15.jar\" -charset UTF-8 $file",
+	"env": {"GRAPHVIZ_DOT":"H:/Program Files (x86)/graphviz-2.38/release/bin/dot.exe"}
+}
