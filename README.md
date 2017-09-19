@@ -1,5 +1,5 @@
 # sublimetext_backup_configuration
 backup my sublimetext configuration
 
-how to syncing sublimetext packages & configureation & keybindings & specific settings
+how to syncing sublimetext packages & configureation & keybindings & specific settings<br>
 see doc https://packagecontrol.io/docs/syncing
