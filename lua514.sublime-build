@@ -1,0 +1,5 @@
+{
+ "cmd":["F:/lua-5.1.4/src/lua.exe"/*引号部分为你的Lua.exe绝对路径*/,"$file"],   
+    "file_regex":"^(?:lua:)?[\t](...*?):([0-9]*):?([0-9]*)",   
+    "selector":"source.lua"   
+}   
