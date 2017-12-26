@@ -5,4 +5,4 @@ how to syncing sublimetext packages & configureation & keybindings & specific se
 see doc https://packagecontrol.io/docs/syncing
 
 you must install ***Package Control***, before you sync ***Packages/User*** <br>
-***Package Control*** will install those missing packages automatically
+so ***Package Control*** can install those missing packages automatically
