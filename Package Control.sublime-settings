@@ -5,14 +5,21 @@
 	],
 	"installed_packages":
 	[
+		"C++ Completions",
+		"C++ Starting Kit",
+		"ConvertToUTF8",
 		"Evernote",
 		"Git",
 		"JavaScript Completions",
 		"JavaScript Console",
+		"LuaFormat",
 		"Markdown Extended",
 		"Markdown Preview",
-		"Material Theme",
+		"MarkdownEditing",
 		"Package Control",
+		"SFTP",
+		"SideBarEnhancements",
+		"Table Editor",
 		"Terminal"
 	],
 	"repositories":
