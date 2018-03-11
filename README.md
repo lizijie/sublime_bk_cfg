@@ -1,8 +1,6 @@
-# sublimetext_backup_configuration
-backup my sublimetext configuration
+You must install ***Package Control*** before restoring those missing packages. Detail see https://packagecontrol.io/docs/syncing
+<br>
 
-how to syncing sublimetext packages & configureation & keybindings & specific settings<br>
-see doc https://packagecontrol.io/docs/syncing
+```git clone ***YOUR_PROSITORY***```
 
-for restoring those missing packages, you must install ***Package Control*** before you sync ***Packages/User*** <br>
 ***Package Control*** instructions https://packagecontrol.io/installation#st3
