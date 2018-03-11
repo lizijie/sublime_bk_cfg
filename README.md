@@ -1,6 +1,19 @@
-You must install ***Package Control*** before restoring those missing packages. Detail see https://packagecontrol.io/docs/syncing
+Reference from https://packagecontrol.io/docs/syncing
+
+
+1. (Install ***Package Control***)[https://packagecontrol.io/installation#st3] before restoring those missing packages.  see 
 <br>
 
-```git clone YOUR_PROSITORY```
+2. git clone 
+fedora/centos
+```shell
+cd ~/.config/sublime-text-3/Packages/User
+git clone YOUR_PROSITORY .
+```
+<br>
 
-***Package Control*** instructions https://packagecontrol.io/installation#st3
+3. reopen sublime text
+
+
+
+
