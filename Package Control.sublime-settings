@@ -16,11 +16,14 @@
 		"Markdown Extended",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"OmniSharp",
 		"Package Control",
 		"SFTP",
 		"SideBarEnhancements",
 		"Table Editor",
-		"Terminal"
+		"Terminal",
+		"Unity Completions Light",
+		"Unity3D"
 	],
 	"repositories":
 	[
