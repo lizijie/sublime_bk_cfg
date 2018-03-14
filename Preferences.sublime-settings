@@ -5,6 +5,7 @@
 	"ignored_packages":
 	[
 	],
+	"vintage_ctrl_keys": true,
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_size": 4,
