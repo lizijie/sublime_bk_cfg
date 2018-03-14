@@ -9,7 +9,11 @@
 	{ "keys": ["ctrl+e", "ctrl+i"], "command": "evernote_insert_attachment" },
 	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} },
 
+
+	{ "keys": ["alt+r"], "command": "reveal_in_side_bar"},
+
 	// 与vim的冲突，重定义
 	{ "keys": ["alt+/"], "command": "show_panel", "args": {"panel": "find", "reverse": false} },
 	{ "keys": ["alt+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+
 ]
