@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.dll",
+				"*.meta",
+				"*.asset",
+				"*.unity",
+				"*.ttf",
+				"*.pdf",
+				"*.unitypackage",
+				"*.mdb",
+				"*.prefab",
+				"*.ogg",
+				"*.controller",
+				"*.anim",
+				"*.jar"
+			],
+
+			"folder_exclude_patterns": 
+			[ 
+				"RawResources", 
+				"Resources", 
+				"UnityVS", 
+				"BuildReport", 
+				"StreamingAssets", 
+				".*" 
+			],
+
+			"path": "Assets",
+			"follow_symlinks": true,
+			// "solution_file": "./YOUR_VS_PROJ.sln"
+		}
+	]
+}
